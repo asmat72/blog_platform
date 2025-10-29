@@ -1,0 +1,75 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.auth-buttons {
+  text-align: left;
+  margin-top: 15px;
+}
+
+.auth-buttons .btn {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.auth-buttons .btn:hover {
+  background-color: #0056b3;
+}
+
+/* Style the form container */
+.new-post-form {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Style labels */
+.new-post-form label {
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+}
+
+/* Style input fields */
+.new-post-form input[type="text"],
+.new-post-form textarea,
+.new-post-form select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Style the Publish button */
+.new-post-form button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-top: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+} 
+
+.new-post-form button:hover {
+  background-color: #0056b3;
+}
