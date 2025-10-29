@@ -61,4 +61,4 @@
 
 - 🙌 Credits:
       Developed by **Asmatullah Khan**  
-      Tagged: **@ InternBoot ** and **@E2V (Employment Express Verband LLP)**
+      Tagged: **@InternBoot** and **@E2V (Employment Express Verband LLP)**
