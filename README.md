@@ -1,16 +1,16 @@
 # blog_platform
 ## Internboot Task: Blog Platform 
 
-- 📌 Description
+- 📌 Description:
    - This project is a fully functional **Blogging Platform** built using Django, where users can create, manage, and publish blog posts. It supports secure authentication, role-based access, and interactive      features for readers.
 
-- 🚀 Features
+- 🚀 Features:
    - 🔐 Secure sign-up, login, and role-based access (Admin, Author, Reader).
    - 🗂️ Organize posts by **categories** and **tags** for easy navigation.
    - 💬 Readers can **comment** on posts and **like** content.
    - 📊 Admins can manage users, posts, comments, and tags via Django Admin.
 
-- 🛠️ Tech Stack
+- 🛠️ Tech Stack:
    - | Framework | Language | Database |
    - |-----------|----------|----------|
    - | Django / WordPress | Python / PHP | SQLite / PostgreSQL / MySQL |
@@ -44,7 +44,8 @@
      - ❤️ Likes
      - 🏷️ Tags and Categories.
          > The dataset is embedded in Django models and migrations.
-- 📽️ LinkedIn Submission
+
+- 📽️ LinkedIn Submission:
      - A recorded video has been uploaded to LinkedIn explaining:
        - What I built
        - How I cleaned and structured the data
@@ -52,6 +53,12 @@
 - 🔗 [LinkedIn Video Link](https://www.linkedin.com/posts/asmatullah-khan-04babb220_video-submission-internboot-challenge-activity-7389240392631664640-eW8C? utm_source=share&utm_medium=member_desktop&rcm=ACoAADexPXsBMjzGH9QUyOEgTfz-ZPqeViCx8hM)  
 - 🔗 [GitHub Repo Link] (https://github.com/asmat72/blog_platform.git)
 
-- 🙌 Credits
+- 🎯 Learning Outcomes:
+     - ✅ Experience in CMS development or custom web apps using Django or WordPress
+     - ✅ Understanding of user roles and permissions
+     - ✅ Database design for posts, comments, likes, and user interactions
+     - ✅ Real-world deployment and GitHub workflow
+
+- 🙌 Credits:
       Developed by **Asmatullah Khan**  
       Tagged: **@ InternBoot ** and **@E2V (Employment Express Verband LLP)**
